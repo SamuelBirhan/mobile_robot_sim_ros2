@@ -1,0 +1,5 @@
+mobile_robot_controller:
+  ros__parameters:
+    linear_speed: 0.5
+    angular_speed: 0.54165
+    turn_time: 3.0

@@ -1,0 +1,6 @@
+mobile_robot_simulator:
+  ros__parameters:
+    initial_x: 0.0
+    initial_y: 0.0
+    initial_phi: 0.0
+    dt: 0.1
